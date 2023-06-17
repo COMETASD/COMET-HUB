@@ -15,3 +15,9 @@ if placeId == 12602215983 then
    print("Executing script for Blue Heat")
  loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/BlueHeater",true))();
 end
+
+if placeId == 10534865425 then
+   -- Code to run if the Place ID doesn't match
+   print("Executing script for HOOP SIM")
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/BlueHeater",true))();
+end
