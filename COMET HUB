@@ -19,5 +19,5 @@ end
 if placeId == 10534865425 then
    -- Code to run if the Place ID doesn't match
    print("Executing script for HOOP SIM")
- loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/BlueHeater",true))();
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/HOOP%20SIM",true))();
 end
